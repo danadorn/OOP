@@ -62,3 +62,8 @@ class ClubMember2 extends ClubMember implements Service{
     int numberOfClubs;
 }
 
+//implement
+class Mom extends Person implements Service{
+    String momName;
+}
+
